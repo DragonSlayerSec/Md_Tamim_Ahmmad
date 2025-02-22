@@ -152,9 +152,9 @@ Client: ANZ Cyber Security Management Job Simulation
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISM-005F5F?&style=for-the-badge&logo=ISACA&logoColor=white" />
+<a href="https://imgur.com/YOdq3yp"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://imgur.com/SFMusQ3"><img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" /></a>
+<a href="https://imgur.com/ELtCzgf"><img src="https://img.shields.io/badge/-CISM-005F5F?&style=for-the-badge&logo=ISACA&logoColor=white" /></a>
 </div>
 
 ## Projects
