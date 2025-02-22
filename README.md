@@ -158,5 +158,12 @@ Client: ANZ Cyber Security Management Job Simulation
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+| Projects                                              | Projects Work              |
+|-------------------------------------------------------|----------------------------|
+| Network Security Lab with Firewalls & IDS/IPS         | 
+| Vulnerability Assessment & Penetration Testing (VAPT) | 
+| Malware Analysis & Reverse Engineering                | SOC Automation Lab|
+| Secure Web Application Development                    | SOC Automation Lab|
+| Incident Response Simulation                          | SOC Automation Lab|
+| Zero Trust Network Implementation                     | SOC Automation Lab|
+| Cloud Security Monitoring & Compliance                |
