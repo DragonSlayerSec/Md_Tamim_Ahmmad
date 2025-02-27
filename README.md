@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md Tamim Ahmmad – Cybersecurity Engineer | Cloud Security | Offensive & Defensive Security
 
-<a href="https://www.linkedin.com/in/md-ahmmad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-tamim-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my GitHub portfolio! I'm a cybersecurity professional with hands-on experience in cloud security, penetration testing, vulnerability management, and security operations. I specialize in offensive and defensive security strategies, leveraging tools like Splunk, Wireshark, Burp Suite, Checkmarx, and SAST/DAST technologies to secure applications and infrastructure.
 
