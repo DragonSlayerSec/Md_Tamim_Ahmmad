@@ -76,22 +76,32 @@ Security Concepts & Compliance
 
 ## 💼 Work Experience
 
-Company: Log(N) Pacific	                                                                                                                                                                                            4/1/2025 - Present
-Title: Cyber Security Support Engineer (Vulnerability Management & SecOps Intern)
-Vulnerability Management:
-•	Conducted vulnerability scans, provided detailed reports, and implemented PowerShell-based remediations, contributing to a 100% reduction in critical, 90% in high, and 76% in medium vulnerabilities for the server team.
-•	Performed vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments.
-•	Executed secure configurations and compliance audits (DISA STIG) with Tenable to meet industry standards.
-•	Automated remediation processes and STIG implementations using PowerShell to address critical vulnerabilities.
-•	Deep understanding of the “soft” side of Vulnerability Management: rapport, trust, transparency, and business need.
-Security Operations:
-•	Performed threat hunting with EDR, detecting IoCs from brute force attacks, data exfiltration, and ransomware.
-•	Designed, tested, and published advanced threat hunting scenarios for incident response tabletop exercises
-•	Developed custom detection rules in Microsoft Defender for Endpoint to automate isolation and investigation of compromised systems.
-•	Reduced brute force incidents by 100% by implementing inbound NSG/firewall rules to limit Internet exposure.
-•	Created Microsoft Sentinel dashboards to monitor logon failures and malicious traffic using threat intelligence.
-•	Experienced with KQL (similar to SQL/SPL) which I used to query logs within the SIEM and EDR platform.
+🏢 Company: Log(N) Pacific
 
+📅 Duration: April 1, 2025 – Present
+🎯 Title: Cyber Security Support Engineer (Vulnerability Management & SecOps Intern)
+🔐 Vulnerability Management
+•Analyzed fraud data from critical systems and performed exploratory data analysis.
+
+Conducted vulnerability scans, provided detailed reports, and implemented PowerShell-based remediations, contributing to a 100% reduction in critical, 90% in high, and 76% in medium vulnerabilities for the server team.
+Performed vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments.
+Executed secure configurations and compliance audits (DISA STIG) with Tenable to meet industry standards.
+Automated remediation processes and STIG implementations using PowerShell to address critical vulnerabilities.
+Deep understanding of the “soft” side of Vulnerability Management: rapport, trust, transparency, and business need.
+
+🛡️ Security Operations (SecOps)
+
+    Conducted proactive threat hunting using EDR to identify IoCs from brute force attacks, ransomware, and data exfiltration.
+
+    Designed and tested threat hunting playbooks for use in incident response tabletop exercises.
+
+    Created custom detection rules in Microsoft Defender for Endpoint for automated isolation and threat investigation.
+
+    Reduced brute force incidents to zero by implementing inbound NSG/firewall rules to restrict unnecessary Internet exposure.
+
+    Developed Microsoft Sentinel dashboards to track failed login attempts and detect malicious traffic using threat intelligence feeds.
+
+    Utilized Kusto Query Language (KQL) to analyze logs and extract actionable insights from SIEM and EDR systems.
 Client: JPMorgan Chase & Co. Cybersecurity Job Simulation
 
 📅 June 2024 [📜 Certificate](https://imgur.com/fd1UAGk)
