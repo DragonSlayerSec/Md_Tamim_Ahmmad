@@ -17,7 +17,7 @@ Through this portfolio, I aim to showcase practical security projects, research,
 Bachelor of Science in Computer Information Technology
 
 📍 Western Governors University, Millcreek, Utah
-📅 Graduation: May 2025
+📅 Graduation: July 2025
 
 My coursework has provided me with a strong foundation in cybersecurity, networking, and programming, allowing me to develop practical problem-solving skills and technical expertise. The hands-on approach to learning has enabled me to work on real-world security challenges, preparing me for industry roles in cybersecurity and cloud security.
 Associate Degree in Computer Information Systems
@@ -75,6 +75,22 @@ Security Concepts & Compliance
   
 
 ## 💼 Work Experience
+
+Company: Log(N) Pacific	                                                                                                                                                                                            4/1/2025 - Present
+Title: Cyber Security Support Engineer (Vulnerability Management & SecOps Intern)
+Vulnerability Management:
+•	Conducted vulnerability scans, provided detailed reports, and implemented PowerShell-based remediations, contributing to a 100% reduction in critical, 90% in high, and 76% in medium vulnerabilities for the server team.
+•	Performed vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments.
+•	Executed secure configurations and compliance audits (DISA STIG) with Tenable to meet industry standards.
+•	Automated remediation processes and STIG implementations using PowerShell to address critical vulnerabilities.
+•	Deep understanding of the “soft” side of Vulnerability Management: rapport, trust, transparency, and business need.
+Security Operations:
+•	Performed threat hunting with EDR, detecting IoCs from brute force attacks, data exfiltration, and ransomware.
+•	Designed, tested, and published advanced threat hunting scenarios for incident response tabletop exercises
+•	Developed custom detection rules in Microsoft Defender for Endpoint to automate isolation and investigation of compromised systems.
+•	Reduced brute force incidents by 100% by implementing inbound NSG/firewall rules to limit Internet exposure.
+•	Created Microsoft Sentinel dashboards to monitor logon failures and malicious traffic using threat intelligence.
+•	Experienced with KQL (similar to SQL/SPL) which I used to query logs within the SIEM and EDR platform.
 
 Client: JPMorgan Chase & Co. Cybersecurity Job Simulation
 
